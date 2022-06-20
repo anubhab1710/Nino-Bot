@@ -12,7 +12,7 @@
       "whatsapp-botto"
   ],
   "website": "https://github.com/Pain77/Nino-Bot#readme",
-  "repository": "https://github.com/Pain77/Nino-Bot.git",
+  "repository": "https://github.com/anubhab1710/Nino-Bot.git",
   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI11I6OXULAkjlZNe_q4r8cHdKLFeSqhCOlg&usqp=CAU",
   "success_url": "/",
   "env": {
@@ -53,9 +53,6 @@
   "buildpacks": [
       {
           "url": "heroku/nodejs"
-      },
-      {
-          "url": "https://github.com/PrajjwalDatir/heroku-buildpack-imagemagick.git"
       },
       {
           "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
